@@ -4,7 +4,7 @@
 
 ### Main skills: 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; 
 ![JAVA](https://img.shields.io/badge/java-21-orange)&nbsp;
-![Git](https://www.google.com/imgres?q=logo%20do%20git&imgurl=https%3A%2F%2Fgit-scm.com%2Fimages%2Flogos%2Fdownloads%2FGit-Logo-2Color.png&imgrefurl=https%3A%2F%2Fgit-scm.com%2Fcommunity%2Flogos&docid=CMTH9vchny6mPM&tbnid=TKKEUZllYb8xKM&vet=12ahUKEwiMr426jbKVAxUSqJUCHVgzLycQnPAOegQIORAA..i&w=910&h=380&hcb=2&ved=2ahUKEwiMr426jbKVAxUSqJUCHVgzLycQnPAOegQIORAA);
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
